@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>VISHU GOYAL REGISTRATION PAGE</h1>
+    <h1>Etisha Jain REGISTRATION PAGE</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
